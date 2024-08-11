@@ -1,0 +1,4 @@
+[settings]
+show-icons=true
+terminal=kitty
+drun-show-categories=true
