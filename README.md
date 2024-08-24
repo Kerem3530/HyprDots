@@ -1,2 +1,4 @@
-# HyprDots
-My Hyprland Configuration Files!
+#HyprDots-Gruvbox
+
+Introductions:
+
