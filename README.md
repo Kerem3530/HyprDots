@@ -1,4 +1,9 @@
-#HyprDots-Gruvbox
+# HyprDots-Gruvbox
 
 Introductions:
+
+install yay
+'''
+lol
+'''
 
