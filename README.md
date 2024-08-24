@@ -18,6 +18,16 @@ yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker 
 
 ```
 
+### Installation
+```
+git clone https://github.com/Kerem3530/HyprDots-Gruvbox.git
+cd HyprDots-Gruvbox
+cd home
+cd config
+```
+
+**And Copy The Files To .config**
+
 ### Other Things
 ```
 chsh -s /usr/bin/fish
@@ -34,14 +44,4 @@ nano hyprland.conf
 **Find the input section on the config file**
 **And change the 'kb_layout' = tr line**
 **You can also change your programs in the 'My Programs' section and keybindings**
-
-## FINAL
-```
-git clone https://github.com/Kerem3530/HyprDots-Gruvbox.git
-cd HyprDots-Gruvbox
-cd home
-cd config
-```
-
-**And Copy The Files To .config**
 
