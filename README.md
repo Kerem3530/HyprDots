@@ -37,5 +37,11 @@ nano hyprland.conf
 
 ## FINAL
 ```
-  git clone
+git clone https://github.com/Kerem3530/HyprDots-Gruvbox.git
+cd HyprDots-Gruvbox
+cd home
+cd config
 ```
+
+**And Copy The Files To .config**
+
