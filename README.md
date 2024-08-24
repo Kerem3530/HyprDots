@@ -13,7 +13,7 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 
-yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker grimblast pavucontrol kitty xsensors nemo hyprpaper waybar qt5ct qt6ct nwg-drawer playerctl ttf-code2000 hyprland playerctl wofi-calc wofi-wifi-menu gwenview
+yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker grimblast pavucontrol kitty xsensors nemo hyprpaper waybar qt5ct qt6ct nwg-drawer playerctl ttf-code2000 hyprland playerctl wofi-calc wofi-wifi-menu gwenview cmatrix nyancat cowsay 
 
 
 ```
@@ -24,5 +24,18 @@ chsh -s /usr/bin/fish
 ```
 **This will make fish the default shell app**
 
-[![Screenshot](screenshots/sideleft.png "sideleft")](screenshots/sideleft.png)
+**Change your keyboard layout from Turkish to any keyboard layout you want**
 
+```
+cd .config/hypr
+nano hyprland.conf
+```
+
+**Find the input section on the config file**
+**And change the 'kb_layout' = tr line**
+**You can also change your programs in the 'My Programs' section and keybindings**
+
+## FINAL
+```
+  git clone
+```
