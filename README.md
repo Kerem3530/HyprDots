@@ -21,12 +21,10 @@ yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker 
 ### Installation
 ```
 git clone https://github.com/Kerem3530/HyprDots-Gruvbox.git
-cd HyprDots-Gruvbox
-cd home
-cd config
+cd HyprDots-Gruvbox/HyprDots/home/config
 ```
 
-**And Copy The Files To .config**
+**And Copy The Files and Directories To .config Directory**
 
 ### Other Things
 ```
