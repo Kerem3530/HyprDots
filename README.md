@@ -14,3 +14,15 @@ cd yay
 makepkg -si
 
 yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker grimblast pavucontrol kitty xsensors nemo hyprpaper waybar qt5ct qt6ct nwg-drawer playerctl ttf-code2000 hyprland playerctl wofi-calc wofi-wifi-menu gwenview
+
+
+```
+
+### Other Things
+```
+chsh -s /usr/bin/fish
+```
+**This will make fish the default shell app**
+
+[![Screenshot](screenshots/sideleft.png "sideleft")](screenshots/sideleft.png)
+
