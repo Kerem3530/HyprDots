@@ -13,7 +13,7 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 
-yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker grimblast pavucontrol kitty xsensors nemo hyprpaper waybar qt5ct qt6ct playerctl ttf-code2000 hyprland playerctl wofi-calc wofi-wifi-menu gwenview cmatrix nyancat cowsay nwg-look kvantum-qt5 pamixer nodejs npm unimatrix sl
+yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker grimblast pavucontrol kitty xsensors nemo hyprpaper waybar qt5ct qt6ct playerctl ttf-code2000 hyprland playerctl wofi-calc wofi-wifi-menu gwenview cmatrix nyancat cowsay nwg-look kvantum-qt5 pamixer nodejs npm unimatrix sl gruvbox-dark-icons-gtk electron idle
 
 
 ```
