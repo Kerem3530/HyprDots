@@ -22,6 +22,7 @@ yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker 
 ```
 git clone https://github.com/Kerem3530/HyprDots-Gruvbox.git
 cd HyprDots-Gruvbox/HyprDots/home/config
+chmod -R +x ~/scripts
 ```
 
 **And Copy The Files and Directories To .config Directory**
@@ -29,6 +30,7 @@ cd HyprDots-Gruvbox/HyprDots/home/config
 ### Other Things
 ```
 chsh -s /usr/bin/fish
+chmod -R +x ~/scripts
 ```
 **This will make fish the default shell app**
 
