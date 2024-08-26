@@ -39,7 +39,6 @@ cd .config/hypr
 nano hyprland.conf
 ```
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 ```
 
 **Find the input section on the config file**
