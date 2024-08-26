@@ -39,8 +39,6 @@ cd .config/hypr
 nano hyprland.conf
 ```
 
-```
-
 **Find the input section on the config file**
 **And change the 'kb_layout' = tr line**
 **You can also change your programs in the 'My Programs' section and keybindings**
