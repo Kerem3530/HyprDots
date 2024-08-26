@@ -39,6 +39,9 @@ cd .config/hypr
 nano hyprland.conf
 ```
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+```
+
 **Find the input section on the config file**
 **And change the 'kb_layout' = tr line**
 **You can also change your programs in the 'My Programs' section and keybindings**
