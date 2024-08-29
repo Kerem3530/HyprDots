@@ -13,7 +13,7 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 
-yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker grimblast pavucontrol kitty xsensors nemo hyprpaper waybar qt5ct qt6ct playerctl ttf-code2000 hyprland playerctl wofi-calc wofi-wifi-menu gwenview cmatrix nyancat cowsay nwg-look kvantum-qt5 pamixer nodejs npm unimatrix sl gruvbox-dark-icons-gtk electron idle
+yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker grimblast pavucontrol kitty xsensors nemo hyprpaper waybar qt5ct qt6ct playerctl ttf-code2000 hyprland playerctl wofi-calc wofi-wifi-menu gwenview cmatrix nyancat cowsay nwg-look kvantum-qt5 pamixer nodejs npm unimatrix sl gruvbox-dark-icons-gtk electron bluez bluez-utils blueman
 
 
 ```
@@ -22,7 +22,6 @@ yay -S brightnessctl mako btop neofetch fish gsimplecal wl-clipboard hyprpicker 
 ```
 git clone https://github.com/Kerem3530/HyprDots-Gruvbox.git
 cd HyprDots-Gruvbox/HyprDots/home/config
-chmod -R +x ~/scripts
 ```
 
 **And Copy The Files and Directories To .config Directory**
